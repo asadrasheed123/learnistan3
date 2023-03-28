@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160967134309",
+    "project_id": "learnistan-fe1b6",
+    "storage_bucket": "learnistan-fe1b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160967134309:android:91e29ba62b64dc2f050a8c",
+        "android_client_info": {
+          "package_name": "com.example.learnistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160967134309-5tun7abrn8ujg1o210a5n4ifhf13ilke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUhGIrCYU-nPGtf1_CkwzJ5AkAWnAhw2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160967134309-5tun7abrn8ujg1o210a5n4ifhf13ilke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
